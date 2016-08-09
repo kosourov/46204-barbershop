@@ -1,0 +1,17 @@
+body {
+  background: url(../img/tint.png);
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  font-weight: 24px;
+}
+
+h2 {
+	height: 30px;
+	line-height: 42px;
+}
+
+p {
+	font-size: 14px;
+	line-height: 24px;
+}
+
